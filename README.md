@@ -1,6 +1,6 @@
 # ClippyGPT
 ![alt text](https://github.com/ElijahLeeMorgan/ClippyGPT/blob/main/ClippyGPT.png)
-A CLI program that allows you to interact with Google's Gemini API under the persona of the infamious "Clippy" assistant.
+A CLI program that allows you to interact with Google's Gemini API under the persona of the infamous "Clippy" assistant.
 
 ## Usage
 Simply run chatbot.py file with Python3 as well as with an input prompt.\
